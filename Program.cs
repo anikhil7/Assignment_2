@@ -8,6 +8,7 @@ namespace Assignment
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
+            //Checking Push
 
             //Question 1:
             Console.WriteLine("Question 1:");
